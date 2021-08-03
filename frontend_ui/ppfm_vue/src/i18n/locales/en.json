@@ -1,0 +1,70 @@
+{
+  "message": {
+    "toolbar": {
+      "language": "Language",
+      "latest_release": "Latest Release"
+    },
+    "greet": "Project Portfolio Management",
+    "description": {
+      "line_1": "Portfolio Management Module provides business case forms, online",
+      "line_2": "questionnaires, process workflows and tools to capture necessary data.",
+      "link": "Secure Tech"
+    },
+    "links": {
+      "whats_next": {
+        "heading": "What's next?",
+        "link_1": "Explore components",
+        "link_2": "Select a layout",
+        "link_3": "Frequently Asked Questions"
+      }
+    },
+    "details_form": {
+      "name": "Name",
+      "email": "Email",
+      "department": "Department",
+      "departments": {
+        "name_1": "Finance",
+        "name_2": "Housing Development",
+        "name_3": "Forest",
+        "name_4": "Internal Affairs",
+        "name_5": "Marine Life"
+      },
+      "remember_me": "Remember me?",
+      "validation_errors": {
+        "name": {
+          "required": "Name is required",
+          "invalid": "Name must be less than 10 characters"
+        },
+        "email": {
+          "required": "Email is required",
+          "invalid": "Email must be valid"
+        }
+      },
+      "buttons": {
+        "submit": "Submit",
+        "clear": "Clear"
+      }
+    },
+    "project_details_form": {
+      "project_name": "Project Name",
+      "business_unit": "Business Unit",
+      "estimated_start_picker": "Estimated Start active picker:",
+      "estimated_end_picker": "Estimated End active picker:",
+      "estimated_start": "Estimated Start",
+      "estimated_end": "Estimated End",
+      "requestor_name": "Requestor Name",
+      "business_priority": "Business Priority",
+      "business_priorities": ["High", "Medium", "Low"],
+      "validation_errors": {
+        "project_name": {
+          "required": "Project Name is required",
+          "invalid": "Project Name must be less than 50 characters"
+        }
+      },
+      "buttons": {
+        "submit": "Submit",
+        "clear": "Clear"
+      }
+    }
+  }
+}
