@@ -1,0 +1,77 @@
+{
+  "message": {
+    "toolbar": {
+      "language": "لغة",
+      "latest_release": "أحدث إصدار"
+    },
+    "greet": "إدارة محافظ المشاريع",
+    "description": {
+      "line_1": "توفر وحدة إدارة المحفظة نماذج حالة العمل عبر الإنترنت",
+      "line_2": "الاستبيانات وعمليات سير العمل والأدوات اللازمة لالتقاط البيانات الضرورية.",
+      "link": "التكنولوجيا الآمنة"
+    },
+    "links": {
+      "whats_next": {
+        "heading": "ماذا بعد؟",
+        "link_1": "استكشف المكونات",
+        "link_2": "حدد تخطيطًا",
+        "link_3": "أسئلة مكررة"
+      }
+    },
+    "details_form": {
+      "name": "اسم",
+      "email": "بريد إلكتروني",
+      "department": "قسم",
+      "departments": {
+        "name_1": "تمويل",
+        "name_2": "تنمية الإسكان",
+        "name_3": "غابة",
+        "name_4": "الشؤون الداخلية",
+        "name_5": "الحياة البحرية"
+      },
+      "remember_me": "تذكرنى؟",
+      "validation_errors": {
+        "name": {
+          "required": "مطلوب اسم",
+          "invalid": "يجب أن يكون الاسم أقل من 10 أحرف"
+        },
+        "email": {
+          "required": "البريد الالكتروني مطلوب",
+          "invalid": "يجب ان يكون البريد الاكتروني صحيح"
+        }
+      },
+      "buttons": {
+        "submit": "إرسال",
+        "clear": "صافي"
+      }
+    },
+    "project_details_form": {
+      "project_name": "اسم المشروع",
+      "business_unit": "وحدة عمل",
+      "estimated_start_picker": "منتقي البداية النشط المقدّر:",
+      "estimated_end_picker": "المنتقي النشط للإنهاء المقدّر:",
+      "estimated_start": "البداية المقدرة",
+      "estimated_end": "نهاية تقديرية",
+      "estimated_start_ph": "اختر تاريخ البدء ...",
+      "estimated_end_ph": "اختر تاريخ انتهاء ...",
+      "requestor_name": "اسم الطالب",
+      "business_priority": "أولوية العمل",
+      "business_priority_ph": "حدد أولوية ...",
+      "business_priorities": {
+        "high": "عالي",
+        "medium": "متوسط",
+        "low": "قليل"
+      },
+      "validation_errors": {
+        "project_name": {
+          "required": "اسم المشروع مطلوب",
+          "invalid": "يجب أن يكون اسم المشروع أقل من 50 حرفًا"
+        }
+      },
+      "buttons": {
+        "submit": "إرسال",
+        "clear": "صافي"
+      }
+    }
+  }
+}
