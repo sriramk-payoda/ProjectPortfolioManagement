@@ -55,6 +55,7 @@
       "estimated_start_ph": "اختر تاريخ البدء ...",
       "estimated_end_ph": "اختر تاريخ انتهاء ...",
       "requestor_name": "اسم الطالب",
+      "requestor_name_ph": "اختر اسم الطالب ...",
       "business_priority": "أولوية العمل",
       "business_priority_ph": "حدد أولوية ...",
       "business_priorities": {
